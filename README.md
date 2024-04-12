@@ -77,7 +77,7 @@ Y gracias a ello pienso y amo mucho desarrollar soluciones para mejorar e inspir
 [![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
 [![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white&labelColor=101010)]()
 
-##### EXPRECIENCE WITH:
+##### EXPERIENCES WITH:
 
 [![chartdotjs](https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=101010)]()
 [![aframe](https://img.shields.io/badge/aframe-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white&labelColor=101010)]()
