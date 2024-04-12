@@ -3,7 +3,7 @@
   👋 Hola, Soy Norman! 👨‍💻
 </h1>
 
-![https://www.linkedin.com/in/norman-jaimes-mora](https://raw.githubusercontent.com/TheNormanJames/TheNormanJames/master/GitHub-Banner.png)
+![https://www.linkedin.com/in/norman-jaimes-mora](https://raw.githubusercontent.com/TheNormanJames/TheNormanJames/master/GitHub-Banner-.png)
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&color=157cd1&lines=+Freelance+-+FullStack+Developer;+VANILLA+-+M.E.R.N.+-+P.E.R.N.;" /></p>
 
