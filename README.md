@@ -47,7 +47,7 @@ Y gracias a ello pienso y amo mucho desarrollar soluciones para mejorar e inspir
 
 ##### FRONT-END TOOLS:
 
-[![socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=101010)]()
+[![socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=101010)]()
 [![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![Ajax](https://img.shields.io/badge/Ajax-c34c2c?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
